@@ -29,7 +29,7 @@ public class SearchPage {
 	
 	public void clickOnRemove() {
 		
-		remove.click();
+		
 	}
 	
 }
