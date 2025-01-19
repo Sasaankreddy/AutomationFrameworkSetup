@@ -10,6 +10,7 @@
     <classes>
       
       <class name="tests.LoginTest"/>
+      <class name="tests.SearchTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
