@@ -51,7 +51,7 @@ public class SearchTest extends TestBase{
 	public void remove() {
 		search=new SearchPage(driver);
 		search.clickOnRemove();
-		search.clickOnRemove();
+	
 		
 
 	}
